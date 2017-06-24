@@ -4,3 +4,6 @@ Attached is the dataset used in my #IronViz Safari feeder.  The dataset was gath
 
 I used this as my starting point to gather team names:
 https://en.wikipedia.org/wiki/List_of_professional_sports_teams_in_the_United_States_and_Canada
+
+The mail file with the teams and animal classification is ironviz2.xlsx
+To create the Sankey diagram, I had to densify the data and used SankeyData.xlsx
